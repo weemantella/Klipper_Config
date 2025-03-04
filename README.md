@@ -1,6 +1,8 @@
 # Klipper Screen Menus for use with AFC and Box Turtle
 *not an official Armored Turtle project*
 
+For official [Box Turtle](https://github.com/ArmoredTurtle/BoxTurtle) Software, check out [AFC-Klipper-Add-On](https://github.com/ArmoredTurtle/AFC-Klipper-Add-On)
+
 ## Instructions
 
 *Use all settings and macros at your own risk*
